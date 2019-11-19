@@ -1,4 +1,5 @@
 # DataScienceProject
+![Diagrampng](https://user-images.githubusercontent.com/50790881/69136575-adf0fc80-0aed-11ea-9a0e-14754095b6c7.png)
 
 ## Here i enclose all project i've done, most the data are publiced in Kaggle and during my master study
 Contents of project:
