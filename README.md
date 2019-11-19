@@ -2,7 +2,7 @@
 
 ## Here i enclose all project i've done, most the data are publiced in Kaggle and during my master study
 Contents of project:
-## 1. [Kaggle EU Football SQL and python visualize](https://github.com/annguyen0302/DataScienceProject/blob/master/KaggleFootballSQL/Analysis%20and%20visualize%20SQL%20database%20by%20Python%20.ipynb)
+## 1. [Kaggle EU Football SQL and python visualize](https://github.com/annguyen0302/DataScienceProject/blob/master/KaggleFootballSQL/Analysis%20and%20visualize%20SQL%20database%20by%20Python.ipynb)
 For a data scientist, two must tools are Python and SQL, one used to extract the data and one used to visualize and analyze the data. SQL is a very interesting tools to analyze the data. My analyze was inspired from Dima Rudov [analysis](https://www.kaggle.com/dimarudov/data-analysis-using-sql) from Kaggle.The [data](https://www.kaggle.com/hugomathien/soccer) was collected from Kaggle, and it includes 25k+ matches, players & teams attributes for European Professional Football.
 
 ## 2. [Credit Default](https://github.com/annguyen0302/DataScienceProject/blob/master/Default%20Analysis/Exploratory%20%20Data%20and%20Basic%20Analysis%2C%20Logistic%20and%20Knn%20Method.ipynb)
