@@ -8,4 +8,3 @@ For a data scientist, two must tools are Python and SQL, one used to extract the
 ## 2. [Credit Default](https://github.com/annguyen0302/DataScienceProject/blob/master/Default%20Analysis/Exploratory%20%20Data%20and%20Basic%20Analysis%2C%20Logistic%20and%20Knn%20Method.ipynb)
 
 The data of this challenge was published by professor Paolo in Universita di Pavia. The data is quite simple as it include 25 variable, which are mainly financial indicator such as ROE, ROI or debt/asset rate with 1505 observation which are companies from Southern of Europe listed in the year 2015. The main goal of this project is to visualize and build machine learning model to predict the outcome result which is Default/Not. 
-
