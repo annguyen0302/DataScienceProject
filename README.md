@@ -2,7 +2,7 @@
 
 ## Here i enclose all project i've done, most the data are publiced in Kaggle and during my master study
 Contents of project:
-## 1.[DataCamp Project](https://github.com/annguyen0302/DataScienceProject/tree/master/Datacamp%20project)
+## 1. [DataCamp Project](https://github.com/annguyen0302/DataScienceProject/tree/master/Datacamp%20project)
 
 Here is all the small project and capstone project I've done and during the period I study and practice in DataCamp
 
